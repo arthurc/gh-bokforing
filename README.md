@@ -1,1 +1,2 @@
-# bokforing
+# gh-bokfor - Bokföring
+Bokföring
