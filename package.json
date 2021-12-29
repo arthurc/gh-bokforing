@@ -1,0 +1,19 @@
+{
+  "name": "gh-bokforing",
+  "version": "1.0.0",
+  "main": "build/main.js",
+  "repository": "git@github.com:gh-bokfor/bokforing.git",
+  "author": "Arthur Hartwig Carlsson <arthur@kiron.net>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}

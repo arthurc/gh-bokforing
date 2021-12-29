@@ -1,0 +1,5 @@
+name: "Bokföring: Verifiera"
+description: "Verifierar bokföring"
+runs:
+  using: "node12"
+  main: "../lib/verifiera-action.js"
