@@ -1,0 +1,5 @@
+name: 'Bokföring: Init'
+description: 'Initierar bokföringen'
+runs:
+  using: 'node12'
+  main: '../lib/init-action.js'
